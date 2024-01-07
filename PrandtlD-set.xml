@@ -1,9 +1,9 @@
 <?xml version="1.0"?>
 <!--
 ************************************************************************
-Meeuvlerk met 3D kajuit en paneel.
+PrandtlD met 3D kajuit en paneel.
 
-2011-05-09 N. Agenbag
+2024-01-07 N. Agenbag
 ************************************************************************
 -->
 
@@ -11,15 +11,15 @@ Meeuvlerk met 3D kajuit en paneel.
 
  <sim>
 
-  <description>Meeuvlerk</description>
-  <author>David N. Agenbag</author>
+  <description>PrandtlD</description>
+  <author>N. Agenbag</author>
   <status>production</status>
 
   <flight-model archive="y">jsb</flight-model>
-  <aero archive="y">mv</aero>
+  <aero archive="y">PrandtlD</aero>
 
   <model>
-    <path archive="y">Aircraft/mv/Models/mv.xml</path>
+    <path archive="y">Aircraft/PrandtlD/Models/PrandtlD.xml</path>
 
     <livery>
       <file type="string">n301dp</file>
@@ -39,7 +39,7 @@ Meeuvlerk met 3D kajuit en paneel.
   </model>
 
   <startup>
-    <splash-texture>Aircraft/mv/splash.png</splash-texture>
+    <splash-texture>Aircraft/PrandtlD/splash.png</splash-texture>
   </startup>
 
   <!-- hide the 2D panel -->
@@ -62,7 +62,7 @@ Meeuvlerk met 3D kajuit en paneel.
 
   <systems>
     <autopilot>
-      <path>Aircraft/mv/Systems/KAP140.xml</path>
+      <path>Aircraft/PrandtlD/Systems/KAP140.xml</path>
     </autopilot>
     <electrical>
       <!-- null electrical system path here so we can use a nasal based -->
@@ -72,7 +72,7 @@ Meeuvlerk met 3D kajuit en paneel.
   </systems>
 
   <sound>
-   <path archive="y">Aircraft/mv/mv-sound.xml</path>
+   <path archive="y">Aircraft/PrandtlD/PrandtlD-sound.xml</path>
   </sound>
 
   <multiplay>
@@ -152,20 +152,20 @@ Meeuvlerk met 3D kajuit en paneel.
 
  <nasal>
  
-    <mv>
-      <file>Aircraft/mv/Nasal/liveries.nas</file>
-      <file>Aircraft/mv/Nasal/immat.nas</file>
-      <file>Aircraft/mv/Nasal/doors.nas</file>
-      <file>Aircraft/mv/Nasal/light.nas</file>
-      <file>Aircraft/mv/Nasal/action-sim.nas</file>
-      <file>Aircraft/mv/Nasal/ki266.nas</file>
+    <PrandtlD>
+      <file>Aircraft/PrandtlD/Nasal/liveries.nas</file>
+      <file>Aircraft/PrandtlD/Nasal/immat.nas</file>
+      <file>Aircraft/PrandtlD/Nasal/doors.nas</file>
+      <file>Aircraft/PrandtlD/Nasal/light.nas</file>
+      <file>Aircraft/PrandtlD/Nasal/action-sim.nas</file>
+      <file>Aircraft/PrandtlD/Nasal/ki266.nas</file>
       <script><![CDATA[
         ki266.new(0);
       ]]></script>
-    </mv>
+    </PrandtlD>
 
   <electrical>
-   <file>Aircraft/mv/Nasal/mv-electrical.nas</file>
+   <file>Aircraft/PrandtlD/Nasal/PrandtlD-electrical.nas</file>
   </electrical>
   <kap140>
    <file>Aircraft/Generic/kap140.nas</file>
@@ -180,7 +180,7 @@ Meeuvlerk met 3D kajuit en paneel.
    </script>
   </kap140>
   <kr87>
-            <file>Aircraft/mv/Nasal/kr87.nas</file>
+            <file>Aircraft/PrandtlD/Nasal/kr87.nas</file>
         </kr87>
  </nasal>
  <payload>

@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="http://jsbsim.sourceforge.net/JSBSim.xsl"?>
-<fdm_config name="MV0" version="2.0" release="ALPHA"
+<fdm_config name="PrandtlD" version="2.0" release="ALPHA"
    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
    xsi:noNamespaceSchemaLocation="http://jsbsim.sourceforge.net/JSBSim.xsd">
 
@@ -12,9 +12,9 @@
  </fileheader>
 
 <!--
-  File:     MV1.xml
+  File:     PrandtlD.xml
   Inputs:
-    name:          MV1
+    name:          PrandtlD
     type:          light single
     max weight:    352.8 lb
     wing span:     39.372 ft
@@ -35,7 +35,7 @@
     CD-0:          0.024
     K:             0.04
 
-'n Blok 1 meeuvlerk is die korrekte koeefisiente, maar minder tabelle.
+Begin weergawe van PrandtlD maar met meeuvlerk data.
 -->
 
  <metrics>
@@ -202,7 +202,7 @@
 
  </propulsion>
 
- <flight_control name="FCS: MV0">
+ <flight_control name="FCS: PrandtlD">
 
   <channel name="Pitch">
    <summer name="Pitch Trim Sum">
@@ -853,7 +853,7 @@
 
     <input port="1137"/>
 
-    <output name="outputlog\Meeuvlerkuit_MV1.csv" type="CSV" rate="10">
+    <output name="outputlog\PrandtlD.csv" type="CSV" rate="10">
         <simulation> OFF </simulation>
         <atmosphere> OFF </atmosphere>
         <massprops> OFF </massprops>
