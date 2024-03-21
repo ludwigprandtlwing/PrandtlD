@@ -126,35 +126,11 @@ Begin weergawe van PrandtlD maar met meeuvlerk data.
    <retractable>1</retractable>
  </contact>
 
-  <contact type="STRUCTURE" name="LEFT_WING">
-    <location unit="IN">
-     <x>  56.70 </x>
-     <y> -19.69 </y>
-     <z>  -2.95 </z>
-    </location>
-    <static_friction>  0.80 </static_friction>
-    <dynamic_friction> 0.50 </dynamic_friction>
-    <spring_coeff unit="LBS/FT">        352.80 </spring_coeff>
-    <damping_coeff unit="LBS/FT/SEC">    70.56 </damping_coeff>
- </contact>
-
-  <contact type="STRUCTURE" name="RIGHT_WING">
-    <location unit="IN">
-     <x>  56.70 </x>
-     <y>  19.69 </y>
-     <z>  -2.95 </z>
-    </location>
-    <static_friction>  0.80 </static_friction>
-    <dynamic_friction> 0.50 </dynamic_friction>
-    <spring_coeff unit="LBS/FT">        352.80 </spring_coeff>
-    <damping_coeff unit="LBS/FT/SEC">    70.56 </damping_coeff>
- </contact>
-
  </ground_reactions>
 
  <propulsion>
 
-   <engine file="eng_io320">
+   <engine file="BrushlessMotor">
     <location unit="IN">
       <x>  14.32 </x>
       <y>   0.00 </y>
@@ -166,7 +142,7 @@ Begin weergawe van PrandtlD maar met meeuvlerk data.
       <yaw>   0.00 </yaw>
     </orient>
     <feed>0</feed>
-    <thruster file="prop_75in2f">
+    <thruster file="PrandtlPropeller">
      <location unit="IN">
        <x>  14.32 </x>
        <y>   0.00 </y>

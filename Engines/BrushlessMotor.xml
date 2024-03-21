@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+
+<!--
+  File:     BrushlessMotor.xml
+  Author:   AeromatiC++ v 3.3.21
+
+  See: http://wiki.flightgear.org/JSBSim_Engines#FGElectric
+
+  Inputs:
+    power:          13.41 hp
+-->
+
+<electric_engine name="BrushlessMotor">
+ <power unit="WATTS">  100000 </power>
+</electric_engine>
