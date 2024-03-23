@@ -1,0 +1,178 @@
+{
+  "main": {
+    "id": "feab236c16c503f5",
+    "type": "split",
+    "children": [
+      {
+        "id": "ae98c1f5f429d01c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "50d66e134a027b87",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Aerodinamika/Aerodinamiese analise.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "988357374bcdc433",
+    "type": "split",
+    "children": [
+      {
+        "id": "4b4ad8db5286bc56",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b2c75f0d61dc68e8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4d61d90b39822112",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8a3128261c802787",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5b5108cd6aee4411",
+    "type": "split",
+    "children": [
+      {
+        "id": "014ef32baecef73d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "35ea3471e54d879b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Aerodinamika/Aerodinamiese analise.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6c57847497e52ea6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Aerodinamika/Aerodinamiese analise.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1a0bc6d07377c2ad",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "fe1eaa80b0e64f1d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Aerodinamika/Aerodinamiese analise.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "50d66e134a027b87",
+  "lastOpenFiles": [
+    "AnaliseNotas.md",
+    "Inleiding.md",
+    "Aerodinamika/Aerodinamiese analise.md",
+    "Aerodinamika/SonderRomp/ParasiteVlerkAlleen.md",
+    "Prandtl D eienskappe.md",
+    "lu174414nyr9.tmp",
+    "lu174414nyr6.tmp",
+    "lu174414nyr3.tmp",
+    "Traagheid/SonderRompVlieenier/PrandtlD_MassProps_20240323.md",
+    "Traagheid/Massa en traagheid.md",
+    "Aerodinamika/SonderRomp/ParasietSleurGeenRomp.png",
+    "Aerodinamika/SonderRomp",
+    "Aerodinamika",
+    "Prente",
+    "lu174414nyqw.tmp",
+    "Traagheid/SonderRompVlieenier/GeenVlieenierHoofbalkMassa.png",
+    "Traagheid/SonderRompVlieenier/GeenVlieenierVlerkMassa.png",
+    "Traagheid/SonderRompVlieenier",
+    "Traagheid",
+    "Prente/1_PrandtlVlerk.png",
+    "PrandtlD_MassProps.txt",
+    "create a link.md",
+    "Untitled.canvas",
+    "README.md",
+    "AnaliseNotas 1.md"
+  ]
+}

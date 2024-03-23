@@ -17,7 +17,7 @@
    <offsets>
      <x-m>-0.35</x-m>
      <y-m>0.00</y-m>
-     <z-m>0.18</z-m>
+     <z-m>-0.02</z-m>
    </offsets>
  </model>
 
@@ -27,7 +27,7 @@
    <offsets>
      <x-m>-0.369</x-m>
      <y-m>-0.222</y-m>
-     <z-m>0.069</z-m>
+     <z-m>-0.131</z-m>
    </offsets>
  </model>
 
@@ -37,7 +37,7 @@
    <offsets>
      <x-m>-0.369</x-m>
      <y-m>-0.133</y-m>
-     <z-m>0.069</z-m>
+     <z-m>-0.131</z-m>
    </offsets>
  </model>
 
@@ -48,7 +48,7 @@
    <offsets>
      <x-m>-0.368</x-m>
      <y-m>-0.311</y-m>
-     <z-m>0.068</z-m>
+     <z-m>-0.132</z-m>
    </offsets>
  </model>
 
@@ -58,7 +58,7 @@
    <offsets>
      <x-m>-0.368</x-m>
      <y-m>-0.311</y-m>
-     <z-m>-0.037</z-m>
+     <z-m>-0.237</z-m>
    </offsets>
  </model>
 
@@ -68,7 +68,7 @@
    <offsets>
      <x-m>-0.368</x-m>
      <y-m>-0.131</y-m>
-     <z-m>-0.036</z-m>
+     <z-m>-0.236</z-m>
    </offsets>
  </model>
 
@@ -78,7 +78,7 @@
    <offsets>
      <x-m>-0.368</x-m>
      <y-m>-0.311</y-m>
-     <z-m>-0.142</z-m>
+     <z-m>-0.342</z-m>
    </offsets>
  </model>
 
@@ -88,7 +88,7 @@
    <offsets>
      <x-m>-0.368</x-m>
      <y-m>-0.222</y-m>
-     <z-m>-0.036</z-m>
+     <z-m>-0.236</z-m>
    </offsets>
  </model>
 
@@ -99,7 +99,7 @@
    <offsets>
      <x-m>-0.36</x-m>
      <y-m>-0.219</y-m>
-     <z-m>-0.130</z-m>
+     <z-m>-0.330</z-m>
    </offsets>
  </model>
 
@@ -111,7 +111,7 @@
    <offsets>
      <x-m>-0.56</x-m>
      <y-m>-0.24</y-m>
-     <z-m>-0.65</z-m>
+     <z-m>-0.85</z-m>
    </offsets>
  </model>
  

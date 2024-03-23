@@ -1,7 +1,10 @@
 # VSPGEOM Tag Key File
-g:/My Drive/temp/Prandtl/PrandtlD_VSPGeom.vspgeom
-2
+C:/Program Files/FlightGear 2020.3/data/Aircraft/PrandtlD/Analysis/vsp/PrandtlD_VSPGeom.vspgeom
+5
 
 # tag#,geom#,surf#,gname,gid,ssname1,ssname2,...,ssid1,ssid2,...
 1,0,0,WingGeom_S,KIUZBJNXVZ
 2,0,1,WingGeom_S,KIUZBJNXVZ
+3,1,0,WingSpar_S,EZGIZGMXIM
+4,1,1,WingSpar_S,EZGIZGMXIM
+5,2,0,MeshGeom_S,BHLZGSRCJK
