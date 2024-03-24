@@ -11,5 +11,5 @@
 -->
 
 <electric_engine name="BrushlessMotor">
- <power unit="WATTS">  100000 </power>
+ <power unit="WATTS">  5000 </power>
 </electric_engine>

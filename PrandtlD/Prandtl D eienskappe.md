@@ -2,11 +2,16 @@
 
 Die vliegtuig het die volgende eienskappe:
 
-| Eienskap                  | Waarde | Eenheid |
-| ------------------------- | ------ | ------- |
-| Vlerkspan                 | 12.3   | m       |
-| Maksimum spoed            | 120    | km/h    |
-| Verwysingskoord $c_{ref}$ | 0.82   | m       |
+| Eienskap                     | Waarde | Eenheid  |
+| ---------------------------- | ------ | -------- |
+| Vlerkspan                    | 12.3   | m        |
+| Maksimum spoed               | 120    | km/h     |
+| Verwysingskoord $c_{ref}$    | 0.82   | m        |
+| Vlerkarea (S)                | 10.091 | $m^2$    |
+| Massa                        | 85.9   | kg       |
+| Vlerklading                  | 8.51   | $kg/m^2$ |
+| Slankheidsverhouding $b^2/S$ | 14.99  |          |
+Vergelyk dit met ander soortgelyke vlerkladings in [[Sweeftuig Vlerkladings]]
 
 ## Berekende eienskappe
 

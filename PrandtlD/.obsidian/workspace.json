@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c5b750eb6fee1038",
+            "id": "d66936d985bd1b00",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aerodinamika/Aerodinamiese analise.md",
+                "file": "Taaklys.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Aerodinamika/Aerodinamiese analise.md",
+                "file": "Taaklys.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Aerodinamika/Aerodinamiese analise.md",
+                "file": "Taaklys.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Aerodinamika/Aerodinamiese analise.md"
+                "file": "Taaklys.md"
               }
             }
           }
@@ -147,14 +147,31 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c5b750eb6fee1038",
+  "active": "d66936d985bd1b00",
   "lastOpenFiles": [
-    "Traagheid/Massa en traagheid.md",
     "Aerodinamika/Aerodinamiese analise.md",
-    "AnaliseNotas.md",
+    "Verwysings/Verwysings.md",
     "Inleiding.md",
+    "Taaklys.md",
+    "Aerodinamika/SonderRomp/CMalpha_OpenVSP_PrandtlvlerkAlleen.png",
+    "Aerodinamika/StabilityWindAxes.png",
+    "Aerodinamika/SonderRomp/PrandtlD_VSPGeomGier.polar.md",
+    "Aerodinamika/StabilityAnalysisResults.png",
+    "Aerodinamika/SonderRomp/PrandtlD_DegenGeomStab.md",
+    "Aerodinamika/SonderRomp/PrandtlD_VSPGeom.polar.md",
+    "Aerodinamika/SonderRomp/CLMax.png",
+    "Aerodinamika/StabilityAnalysis.png",
+    "Aerodinamika/SonderRomp/PrandtlInboard_XFOIL_Prelim.png",
+    "Verwysings/WingLoadingSailplaneFundamentals.png",
+    "Verwysings",
     "Aerodinamika/SonderRomp/ParasiteVlerkAlleen.md",
     "Prandtl D eienskappe.md",
+    "Sweeftuig Vlerkladings.md",
+    "lu90363x0gy5.tmp",
+    "lu90363x0gy2.tmp",
+    "lu90363x0gxz.tmp",
+    "Traagheid/Massa en traagheid.md",
+    "AnaliseNotas.md",
     "lu174414nyr9.tmp",
     "lu174414nyr6.tmp",
     "lu174414nyr3.tmp",
@@ -163,13 +180,8 @@
     "Aerodinamika/SonderRomp",
     "Aerodinamika",
     "Prente",
-    "lu174414nyqw.tmp",
     "Traagheid/SonderRompVlieenier/GeenVlieenierHoofbalkMassa.png",
     "Traagheid/SonderRompVlieenier/GeenVlieenierVlerkMassa.png",
-    "Traagheid/SonderRompVlieenier",
-    "Traagheid",
-    "Prente/1_PrandtlVlerk.png",
-    "PrandtlD_MassProps.txt",
     "create a link.md",
     "Untitled.canvas",
     "README.md",
