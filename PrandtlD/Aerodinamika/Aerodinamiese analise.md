@@ -86,6 +86,42 @@ A quick consideration of the signs convention will yield the stability criterion
 - Hence for stability, if $\beta$ increases, $N$ also needs to increase. Hence $C_{n \beta} > 0$ for stability.
 
 $CN beta	0.001253912313393		Vir Cessna 172 is CN beta:		0.02106	Dus is die gier styfheid van die Prandtl vlerk baie laag, maar stabiel.
+
+### OpenFOAM CFD met FreeCAD
+
+Die geometrie is met die volgende spesiale export uit OpenVSP gedoen:
+
+https://www.youtube.com/watch?v=PhTQYZ7x9SQ
+
+Die analise is opgestel met die volgende video oor FreeCAD se OpenFOAM intervlak:
+
+https://www.youtube.com/watch?v=JVO2kqO3D1Q
+
+Die voorbeeld op Dropbox kan gebruik word om die randwaardes beter te verstaan.
+Dit mag baie help om growwer maas te hê en 'n grenslaag fyner te hê.  Dit lei tot minder elemente.
+
+Gebruik die volgende video om koëffisiënte uit Paraview te kry:
+https://www.youtube.com/watch?v=J944HOj_4b0&list=PLkagGMgLCWdBOt2K2XWYnEhpjLFa2fdAO&index=5
+
+Moet nog die koëffisiënte uitkry.
+Moet nog 'n kort OpenFoam case skryf met 'n STL file vir die vlerk.  Moet die moment en die hefkrag uitkry uit OpenFoam.  Gebruik die motorfiets voorbeeld.
+Skryf 'n program om die invalshoek maklik te verander.
+
+Hier is paar resultate:
+
+![[Drukplot.png]]
+
+![[WireframeDruk.png]]
+Vorteks op 70% halfspan:
+![[Vorteks70persent.png]]
+
+![[Stroomlyne.png]]
+Stroomlyne op punt het minder vortisiteit:
+![[StroomlynePunt.png]]
+
+Stel die deursigtigheid om die vlerk te kan sien:
+
+![[StelOpacityAf.png]]
 ### Handberekening analise
 
 Tans geen handberekeninge nie.
